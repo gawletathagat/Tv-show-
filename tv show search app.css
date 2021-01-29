@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+
+div {
+    
+    text-align: center;
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:150px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
